@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+body{
+    background-color: #cccccc;
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+fieldset{
+    background-color: white;
+    border-radius: 5px;
+    
+    
+}
+
+.player_one{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.player_two{
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: fit-content;
+    align-self: center;
+
+}
+
+audio{
+    width: 400px;
+}
